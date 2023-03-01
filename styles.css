@@ -1,5 +1,5 @@
 head,body{
-    background-color: aliceblue;
+    background-color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 div{
@@ -12,6 +12,7 @@ div{
 }
 h1{
     text-align: center;
+    color:black;
 }
 p{
     font size: 12px;
@@ -21,7 +22,7 @@ header{
     width: 200;
     height: 300;
     text-align: center;
-    background-color: rgb(95, 94, 94);
+    background-color: rgb(196, 190, 190);
 }
 h2{
     border-style:hidden;
@@ -30,7 +31,8 @@ h2{
     border-right-width: 10px;
     border-color: white;  
     text-align: center;
-    background-color: maroon;
+    background-color: rgb(3, 3, 54);
+    color:aliceblue;
 }
 section{
     border-style:hidden;
