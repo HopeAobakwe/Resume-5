@@ -3,7 +3,7 @@ head,body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 div{
-  background-color: snow;  
+  background-color: rgb(226, 231, 236);  
   padding:3% ;
   margin-top: 0%;
   width: fit-content;
